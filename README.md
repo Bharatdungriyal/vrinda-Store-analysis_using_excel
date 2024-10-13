@@ -45,8 +45,3 @@ The **Vrinda Data Analysis** project successfully cleans and processes raw data,
 
 Feel free to explore the dashboard or review the analysis to gain further understanding!
 
-## Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/vrinda-data-analysis.git
